@@ -1,0 +1,2 @@
+dofbot_color_identify:dofbot_color_stacking:dofbot_config:dofbot_garbage_yolov5:dofbot_info:dofbot_moveit:dofbot_snake_follow
+-DCATKIN_DEVEL_PREFIX=/home/jetson/dofbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/dofbot_ws/install -G Unix Makefiles
